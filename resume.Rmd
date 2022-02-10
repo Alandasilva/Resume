@@ -1,0 +1,270 @@
+---
+title: "Alan da Silva's resume"
+author: Alan da Silva
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo = FALSE}
+* {
+  /* Override default margins*/
+  --pagedjs-margin-right: 0.2in;
+  --pagedjs-margin-left: 0.2in;
+  --pagedjs-margin-top: 0.2in;
+  --pagedjs-margin-bottom: 0.2in;
+  --sidebar-width: 14rem;
+  --sidebar-background-color: #e0ffff;
+}
+```
+
+
+Aside
+================================================================================
+
+
+![Alan da Silva](Figures/photo.png){width=100%}
+
+
+Informações para contato {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> alan.silva.6991@gmail.com
+- <i class="fa fa-github"></i> [github.com/Alandasilva](https://github.com/Alandasilva)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/alan-silva](https://www.linkedin.com/in/alan-silva-341600196/)
+- <i class="fa fa-telegram"></i> @landsilva
+- <i class="fa fa-phone"></i> +55 83-98658-2002
+<!-- - For more information, please contact me via email. -->
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Experiência com análise estatística, modelos de machine/statistical learning, e métodos de otimização.
+
+- Ampla experiência com: data wrangling, data analysis, data visualization, missing data analysis e Big Data.
+
+- Programção: R, SAS, Matlab/Octave, Python, LaTeX, Git and Github.
+
+
+Idiomas {#languages}
+--------------------------------------------------------------------------------
+
+- Português: Nativo
+- Inglês: Intermediário
+
+<!-- Disclaimer {#disclaimer} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- Criado com o Pacote *R* [**pagedown**](https://github.com/rstudio/pagedown). -->
+
+<!-- ültima atualização em `r format(Sys.Date(), "%d-%m-%Y")`. -->
+
+
+
+Main
+================================================================================
+
+Alan da Silva {#title}
+--------------------------------------------------------------------------------
+
+### Atualmente procurando por um vaga como Estatístico/Cientista de Dados
+
+Doutorando em estatística, possuo aproximadamente 7 anos de experiência com a linguagem R para fins acadêmicos, profissionais e pessoais, bem como o uso da linguagem Python para as mesmas finalidades, quando necessário. Possuo amplo conhecimento com técnicas de: coletas e estruturação de dados, análises descritivas, modelagem estatística e preditiva, visualização de dados, tratamento de missing values, Big Data, Machine learning e Deep learning.
+
+
+Formação Acadêmica {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidade Federal de Campina Grande
+
+Bacharelado em Estatística
+
+Campina Grande, Brasil
+
+2014 - 2018
+
+TCC: Testes de Bondade de Ajuste para Distribuições de Vida Baseado em Dados Censurados do Tipo II.
+
+Linha de Pesquisa: Inferência Estatística, Modelagem e Análise de Dados.
+
+### Universidade de Brasília
+
+Mestrado em Estatística
+
+Brasília, Brasil
+
+2019 - 2020
+
+Dissertação: Regressão Quantílica com Distribuições Assimétricas.
+
+Linha de Pesquisa: Inferência Estatística, Modelagem e Análise de Dados.
+
+### Universidade de São Paulo
+
+Doutorado em Estatística
+
+São Paulo, Brasil
+
+2021 - Atualmente
+
+Linha de Pesquisa: Modelos de Regressão e Aplicações.
+
+Experiência em Pesquisa {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Estatístico/ Cientista de Dados/ Pesquisador Assistente
+
+[Institudo de Pesquisa Econômica Aplicada](https://www.ipea.gov.br/portal/), 
+
+Brasília, Brasil
+
+2019 - 2020
+
+- Auxílio na expansão/manutenção do pacote *R* [geobr](https://github.com/ipeaGIT/geobr) com a criação de novas funções usando técnicas de web scraping, bem como a atualização de funções já presentes no pacote;
+- Estruturação/Manipulação manipulação de bases de dados brutos.
+- Auxílio quantitativo/estatístico em projetos de pesquisa usando técnicas de classificação, regressão e aprendizado não-supervisionado:
+- Estudo sobre a relação entre a expectativa de vida e a renda com base nos dados do censo do IBGE, realizado em 2010;
+- Estudo sobre o impacto nos índices de desigualdade social com a ausência dos dados de renda dos indivíduos. O estudo utilizou os dados do censo realizado pelo IBGE de 2010.
+
+### Pesquisador Estatístico
+
+[Universidade de Brasília](https://www.unb.br/)
+
+Brasília, Brasil
+
+2019 - 2020
+
+- Desenvolvimento de novas metodologias para a modelagem de dados da área negócios e dados de apólices de seguros.
+- Desenvolvimento de novos modelos de regressão quantílica.
+
+### Pesquisador Bolsista
+
+[Universidade Federal de Campina Grande](https://portal.ufcg.edu.br/)
+
+Campina Grande, Brasil
+
+2016 - 2018
+
+Trabalhei em dois projetos de pesquisa do PIBIC intitulados:
+
+- Título: Testes de Bondade de Ajuste Para a Distribuição Birnbaum-Saunders.
+- Testes de Bondade de Ajuste Para Distribuições de Vida Baseado em Dados Censurados do Tipo II.
+
+Onde fiz as seguintes atividades:
+
+- Desenvolvimento de testes de hipóteses baseados em entropia para algumas distribuições de vida.
+- Extensão da pesquisa para dados censurados do tipo II.
+
+Experiência Profissional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Estatístico Estagiário
+
+[Universidade Federal de Campina Grande](https://portal.ufcg.edu.br/)
+
+Campina Grande, Brasil
+
+2018 - 2018
+
+<!-- ::: concise -->
+- Realizei o planejamento amostral de uma pesquisa de opinião dos discentes da Universidade Federal de Campina Grande em relação ao ensino prestado pela Instituição.
+- Fiz a elaboração do questionário que foi utilizado nessa pesquisa.
+<!-- ::: -->
+
+### Estatístico
+
+[Universidade Federal de Campina Grande](https://portal.ufcg.edu.br/)
+
+Campina Grande, Brasil
+
+2018 - 2018
+
+<!-- ::: concise -->
+<!-- - Analyzed whole-exome sequencing data.  -->
+<!-- - Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq. -->
+<!-- - Studied tumor metastasis and wrote research reports.  -->
+<!-- - Also did case studies to identify the genetic defect causing rare disease. -->
+<!-- ::: -->
+- Realizei análises estatísticas para um aluno em processo de elaboração da tese de doutorado em Administração, cujo objetivo foi estudar a associação entre o fato dos municípios terem um local destinado ao depósito do lixo e os municípios aderirem a um consorcio para depósito do lixo com um município que tenha o local de depósito de lixo;
+- Realizei análises estatísticas para alunos de graduação em trabalho de conclusão de curso em Medicina. O interesse do estudo foi analisar a relação entre a incidência de câncer e o uso de cigarro e bebidas alcoólicas em pacientes do Hospital Universitário de Campina Grande;
+- Realizei consultoria a um aluno do curso de Design em processo de elaboração do trabalho de conclusão de curso. Na consultoria, auxiliei o aluno na elaboração de um questionário para uma pesquisa do grau de satisfação dos entrevistados em relação ao design de determinados produtos, bem como auxiliei no cálculo do tamanho da amostra relacionada ao estudo.
+
+
+Experiência em Ensino {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introdução ä Probabilidade
+
+Monitor da disciplina de **Introdução à Probabilidade** na Universidade Federal de Campina Grande.
+
+Campina Grande, Brasil
+
+2017
+
+### Relatórios Reprodutíveis com R
+
+Monitor do minicurso **Relatórios Reprodutíveis com R** no curso de verão pelo Instituto de Matemática e Estatística da Universidade de São Paulo.
+
+São Paulo, Brasil
+
+2022
+
+### Principios de Visualização de dados com R
+
+Monitor do minicurso **Princípios de Visualização de dados com R** no curso de verão pelo Instituto de Matemática e Estatística da Universidade de São Paulo.
+
+São Paulo, Brasil
+
+2022
+
+
+Publicações Selecionadas {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Log-symmetric quantile regression models
+
+[Statistica Neerlandica](https://onlinelibrary.wiley.com/doi/abs/10.1111/stan.12243).
+
+N/A
+
+2021
+
+Helton Saulo, **Alan Dasilva**, Víctor Leiva, Luis Sánchez, Hanns de la Fuente-Mella. 
+
+### Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data
+
+[Statistica Neerlandica](https://onlinelibrary.wiley.com/doi/abs/10.1111/stan.12243).
+
+N/A
+
+2021
+
+**Alan Dasilva**, Helton Saulo. 
+
+### [Invited tutorial] Birnbaum–Saunders regression models: a comparative evaluation of three approaches
+
+[Journal of Statistical Computation and Simulation](https://www.tandfonline.com/doi/abs/10.1080/00949655.2020.1782912)
+
+N/A
+
+2020
+
+**Alan Dasilva**, Renata Dias, Victor Leiva, Carolina Marchant & Helton Saulo.
+
+
+Prêmios {data-icon=award}
+--------------------------------------------------------------------------------
+
+### 3º melhor trabalho apresentado no II Encontro Paraibano de Estatística
+
+Universidade Federal da Paraíba 
+
+João Pessoa, Brasil
+
+2018
+
+Título: Testes de BOndade de ajuste para a distribuiçõa Birnbaum-Saunders.
