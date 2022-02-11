@@ -197,7 +197,7 @@ Campina Grande, Brasil
 Experiência em Ensino {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introdução ä Probabilidade
+### Introdução à Probabilidade
 
 Monitor da disciplina de **Introdução à Probabilidade** na Universidade Federal de Campina Grande.
 
@@ -237,7 +237,7 @@ Helton Saulo, **Alan Dasilva**, Víctor Leiva, Luis Sánchez, Hanns de la Fuente
 
 ### Scale-mixture Birnbaum-Saunders quantile regression models applied to personal accident insurance data
 
-[Statistica Neerlandica](https://onlinelibrary.wiley.com/doi/abs/10.1111/stan.12243).
+[arXiv](https://arxiv.org/abs/2107.10365).
 
 N/A
 
